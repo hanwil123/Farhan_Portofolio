@@ -1,16 +1,15 @@
 import React from "react";
-import Navbar from "../Components/Navbar";
 import { FaHtml5 } from "react-icons/fa";
 import { FaLaravel } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaGitlab } from "react-icons/fa";
-import { BiLogoGoLang } from "react-icons/Bi";
-import { SiJavascript } from "react-icons/Si";
-import { SiTailwindcss } from "react-icons/Si";
-import { SiReact } from "react-icons/Si";
-import { SiNextdotjs } from "react-icons/Si";
-import { SiPhp } from "react-icons/Si";
+import { BiLogoGoLang } from "react-icons/bi";
+import { SiJavascript } from "react-icons/si";
+import { SiTailwindcss } from "react-icons/si";
+import { SiReact } from "react-icons/si";
+import { SiNextdotjs } from "react-icons/si";
+import { SiPhp } from "react-icons/si";
 import Ar from "../assets/arrow.json";
 import Lottie from "lottie-react";
 
