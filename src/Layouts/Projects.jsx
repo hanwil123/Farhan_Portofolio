@@ -24,7 +24,7 @@ const Projects = () => {
                     <img
                       alt="content"
                       class="object-cover object-center h-full w-full"
-                      src="../../public/weather.jpg"
+                      src="weather.jpg"
                     />
                   </div>
                   <h2 class="text-xl font-medium title-font text-gray-900 mt-5 text-center">
@@ -38,7 +38,7 @@ const Projects = () => {
                     <img
                       alt="content"
                       class="object-cover object-center h-full w-full"
-                      src="../../public/webquran.jpg"
+                      src="webquran.jpg"
                     />
                   </div>
                   <h2 class="text-xl font-medium title-font text-gray-900 mt-5 text-center">
@@ -52,7 +52,7 @@ const Projects = () => {
                     <img
                       alt="content"
                       class="object-cover object-center h-full w-full"
-                      src="../../public/chat.jpg"
+                      src="chat.jpg"
                     />
                   </div>
                   <h2 class="text-xl font-medium title-font text-gray-900 mt-5 text-center">

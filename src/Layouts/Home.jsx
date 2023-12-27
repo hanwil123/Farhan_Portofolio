@@ -19,7 +19,7 @@ const Home = () => {
             </p>
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 h-screen flex justify-center">
-            <img src="../../public/han.jpg" alt="" className=" object-cover" />
+            <img src="han.jpg" alt="" className=" object-cover" />
           </div>
           <div class="lg:flex-grow md:w-1/2 lg:px-10 md:px-4 flex flex-col md:items-start md:text-left items-center text-center">
             <div className=" flex flex-col text-center ml-10">
