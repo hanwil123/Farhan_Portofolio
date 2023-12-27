@@ -12,7 +12,7 @@ const About = () => {
         <section class="text-gray-600 body-font">
           <div class="flex flex-col text-center w-full mt-10">
             <h1 class="sm:text-3xl text-6xl font-bold title-font text-gray-900 font-mono">
-              ABOUT ME
+              ABOUT MEE
             </h1>
             <div className=" flex justify-center">
                 <Lottie animationData={Ar} className=" w-40 h-40" />
