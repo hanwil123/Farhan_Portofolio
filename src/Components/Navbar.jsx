@@ -68,9 +68,9 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end mr-20 gap-4">
-          <a href="/" className="btn"><FaFacebook/></a>
-          <a href="/" className="btn"><FaInstagram/></a>
-          <a href="/" className="btn"><FaLinkedin/></a>
+          <a href="https://www.facebook.com/farhan.wildan.3" className="btn"><FaFacebook/></a>
+          <a href="https://www.instagram.com/wildan312" className="btn"><FaInstagram/></a>
+          <a href="https://www.linkedin.com/in/farhan-wildan-52b490256" className="btn"><FaLinkedin/></a>
         </div>
       </div>
     </>
